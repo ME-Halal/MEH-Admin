@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "771469478375",
+    "project_id": "me-halal",
+    "storage_bucket": "me-halal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771469478375:android:8cafbfd88aa463a58c1542",
+        "android_client_info": {
+          "package_name": "com.example.meh_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771469478375-hurliaul8l76p7dhgk7q471ehm4udh3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHYdO3brKNquZ2MkLzPqCJZcnEe8UT5Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771469478375-hurliaul8l76p7dhgk7q471ehm4udh3n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771469478375-euj7tmutiahc8dv8j0ciqkl58obqooac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mehAdmin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
